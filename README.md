@@ -1,6 +1,6 @@
-# flutter_application_1
+# workshop_s2
 
-A new Flutter project.
+Workshop S2 live coding
 
 ## Getting Started
 
